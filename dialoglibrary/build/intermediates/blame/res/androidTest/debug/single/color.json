@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\ASWorkspce2\\Summary\\dialoglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Lee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\e30dee64c44e92a4b27a10374a12b39b\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\ASWorkspce2\\Summary\\dialoglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Lee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\e30dee64c44e92a4b27a10374a12b39b\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\ASWorkspce2\\Summary\\dialoglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Lee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\e30dee64c44e92a4b27a10374a12b39b\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\ASWorkspce2\\Summary\\dialoglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Lee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\e30dee64c44e92a4b27a10374a12b39b\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\ASWorkspce2\\Summary\\dialoglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Lee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\e30dee64c44e92a4b27a10374a12b39b\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\ASWorkspce2\\Summary\\dialoglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Lee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\e30dee64c44e92a4b27a10374a12b39b\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\ASWorkspce2\\Summary\\dialoglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Lee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\e30dee64c44e92a4b27a10374a12b39b\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\ASWorkspce2\\Summary\\dialoglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Lee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\e30dee64c44e92a4b27a10374a12b39b\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\ASWorkspce2\\Summary\\dialoglibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Lee\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.2.aar\\e30dee64c44e92a4b27a10374a12b39b\\res\\color\\abc_secondary_text_material_light.xml"
+    }
+]

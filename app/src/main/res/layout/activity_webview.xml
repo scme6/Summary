@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frameLayout"
+    style="@style/MatchMatch">
+
+    <com.tencent.smtt.sdk.WebView
+        android:id="@+id/webview"
+        style="@style/MatchMatch" />
+
+
+    <ProgressBar
+        android:id="@+id/myProgressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:maxHeight="10dp"
+        android:minHeight="10dp"
+        android:progressTint="@color/colorPrimary" />
+
+</FrameLayout>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    android:paddingBottom="20dp">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/colorPrimary" />
+
+    <TextView
+        style="@style/WrapWrap"
+        android:layout_margin="15dp"
+        android:text="分享到："
+        android:textColor="@android:color/white" />
+
+    <LinearLayout style="@style/MatchWrap.Horizontal">
+
+        <LinearLayout style="@style/WrapWrap.Vertical.VerticalCenter">
+
+            <ImageView
+                style="@style/WrapWrap"
+                android:src="@drawable/ssdk_oks_classic_qq" />
+
+            <TextView
+                style="@style/WrapWrap"
+                android:text="QQ好友"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/WrapWrap.Vertical.VerticalCenter">
+
+            <ImageView
+                style="@style/WrapWrap"
+                android:src="@drawable/ssdk_oks_classic_wechat" />
+
+            <TextView
+                style="@style/WrapWrap"
+                android:text="微信好友"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/WrapWrap.Vertical.VerticalCenter">
+
+            <ImageView
+                style="@style/WrapWrap"
+                android:src="@drawable/ssdk_oks_classic_sinaweibo" />
+
+            <TextView
+                style="@style/WrapWrap"
+                android:text="新浪微博"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/WrapWrap.Vertical.VerticalCenter">
+
+
+            <ImageView
+
+                style="@style/WrapWrap"
+                android:src="@drawable/ssdk_oks_classic_facebook" />
+
+            <TextView
+                style="@style/WrapWrap"
+                android:text="FaceBook"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout style="@style/MatchWrap.Horizontal">
+
+        <LinearLayout style="@style/WrapWrap.Vertical.VerticalCenter">
+
+            <ImageView
+                style="@style/WrapWrap"
+                android:src="@drawable/ssdk_oks_classic_qzone" />
+
+            <TextView
+                style="@style/WrapWrap"
+                android:text="QQ空间"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/WrapWrap.Vertical.VerticalCenter">
+
+            <ImageView
+                style="@style/WrapWrap"
+                android:src="@drawable/ssdk_oks_classic_wechatmoments" />
+
+            <TextView
+                style="@style/WrapWrap"
+                android:text="朋友圈"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/WrapWrap.Vertical.VerticalCenter">
+
+            <ImageView
+                style="@style/WrapWrap"
+                android:paddingEnd="6dp"
+                android:paddingStart="5dp"
+                android:src="@drawable/ic_attachment_black_40dp" />
+
+            <TextView
+                style="@style/WrapWrap"
+                android:layout_marginTop="4dp"
+                android:text="复制链接"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/WrapWrap.Vertical.VerticalCenter">
+
+            <ImageView
+                style="@style/WrapWrap"
+                android:paddingEnd="6dp"
+                android:paddingStart="5dp"
+                android:src="@drawable/ic_more_horiz_black_40dp" />
+
+            <TextView
+                style="@style/WrapWrap"
+                android:layout_marginTop="4dp"
+                android:text="更多"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
