@@ -2,7 +2,6 @@ package org.scme.lee.summary.main.personalcenter
 
 import android.content.Intent
 import android.view.View
-import android.widget.Toast
 import kotlinx.android.synthetic.main.fragment_personal_center.*
 import org.scme.lee.summary.BaseApplication
 import org.scme.lee.summary.R
@@ -42,6 +41,7 @@ class PersonalCenterFragment : BaseFragment(), View.OnClickListener {
         pzv.setZoomTime(500)      //头部缩放时间500毫秒
         initListener()
     }
+
 
     private fun initListener() {
         card1.setOnClickListener(this@PersonalCenterFragment)

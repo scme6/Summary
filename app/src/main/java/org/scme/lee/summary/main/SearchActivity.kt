@@ -14,6 +14,8 @@ class SearchActivity : BaseActivity() {
     override fun layoutID(): Int = R.layout.activity_search
 
     override fun inits(savedInstanceState: Bundle?) {
+
+
     }
 
     override fun initView() {
